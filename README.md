@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kukiclicker
-- 👀 I’m interested in Python, Java and C++ programming
+
 
 
 <!---
